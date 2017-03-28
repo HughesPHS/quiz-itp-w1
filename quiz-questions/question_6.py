@@ -22,4 +22,11 @@ def matrix_sum(a_matrix):
     matrix_sum(m2)  # 198
     """
     # Write your code here
-    pass
+    sum = 0
+    i = 0
+    while i < len(a_matrix):
+        z = 0
+        while i < len(a_matrix[z] )
+        sum += a_matrix[i][z]
+        
+    return sum
