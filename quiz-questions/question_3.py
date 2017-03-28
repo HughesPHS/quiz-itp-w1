@@ -14,4 +14,5 @@ def remove_Es(a_string):
     """
     # Write your code here
     newString = a_string.replace('e', '')
+    newString = newString.replace('E', '')
     return newString
