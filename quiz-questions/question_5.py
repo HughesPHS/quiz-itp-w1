@@ -35,5 +35,5 @@ def calculate_tax(income):
         return (income * 0.3)
     elif income > 75000:
         return (income * 0.25)
-    elif income > 50000:
+    else
         return (income * 0.15)
