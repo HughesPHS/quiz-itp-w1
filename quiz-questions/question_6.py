@@ -25,6 +25,6 @@ def matrix_sum(a_matrix):
     total = 0
     for i in a_matrix:
         for j in a_matrix[i]:
-            total += a_matrix[i][j]
+            total += j
             
     return total
